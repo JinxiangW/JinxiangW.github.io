@@ -48,8 +48,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : "https://www.artstation.com/andywang85"
-  shadertoy        : "https://www.shadertoy.com/user/AtCat"
+  artstation       : "andywang85"
+  shadertoy        : "AtCat"
   bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
