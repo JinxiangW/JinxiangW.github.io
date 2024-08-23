@@ -263,7 +263,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio/portfolio-1.md"
       type: portfolio
     values:
       layout: single
