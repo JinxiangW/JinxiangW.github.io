@@ -13,18 +13,18 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Resume"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
 
   - title: "About"
     url: /about/
+    
+  - title: "Portfolio"
+    url: /portfolio/
+    
+  - title: "Resume"
+    url: /cv/
