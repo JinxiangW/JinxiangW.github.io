@@ -13,8 +13,6 @@ Who Am I?
 ======
 I am a computer graphics and film/photography student who has a strong enthusiasm for ACGN, programming, and visual aesthetics. My primary skill set includes Unity, Maya, OpenGL, and Python, and I have also gained experience with various other tools that will be used during games/graphics program development.
 
-All I want to do is to contribute something nice and something beautiful to games and the industry.
-
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
