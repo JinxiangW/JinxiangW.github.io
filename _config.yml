@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Jinxiang Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JinxiangW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
