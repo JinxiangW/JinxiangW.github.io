@@ -11,10 +11,7 @@ This is the front page of my personal website. I'll share my thoughts, learning 
 
 Who Am I?
 ======
-I am a computer graphics and film/photography student who has a strong enthusiasm for ACGN, programming, and visual aesthetics. My primary skill set includes Unity, Maya, OpenGL, and Python, and I have also gained experience with various other tools that will be used during games/graphics program development.&nbsp;
-
-
-All I want to do is to contribute something nice and something beautiful to games and the industry.
+I am a computer graphics and film/photography student who has a strong enthusiasm for ACGN, programming, and visual aesthetics. My primary skill set includes Unity, Maya, OpenGL, and Python, and I have also gained experience with various other tools that will be used during games/graphics program development. All I want to do is to contribute something nice and something beautiful to games and the industry.
 
 Getting started
 ======
